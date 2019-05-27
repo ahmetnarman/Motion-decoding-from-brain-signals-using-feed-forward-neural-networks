@@ -6,17 +6,17 @@ This project includes a neural networks regression model that predicts the posit
 
 The brain signals that was used in this model was given in the [monkeydata_training.mat](monkeydata_training.mat) file, which is explained in detail in the [DescriptionOfData.pdf](DescriptionOfData.pdf) document. In the model, the data was preprocessed and used in the neural network training. The neural network architecture after parameter optimization was given on the figure below:
 
-<p align="center"><img src="Figures/NNfig.png" width="70%" alt="" /></p>
+<p align="center"><img src="Figures/NNfig.png" width="55%" alt="" /></p>
 
 ## Results 
 
 The proposed model achieved 11.16 cm RMSE error on unseen testing data. The resulting tracking trajectories are shown here:
 
-<p align="center"><img src="Figures/finalModelRun.png" width="80%" alt="" /></p>
+<p align="center"><img src="Figures/finalModelRun.png" width="70%" alt="" /></p>
 
 ## Dependedcies
 
--Matlab
+- Matlab
 
 This project doesnt require any external software or libraries.
 
