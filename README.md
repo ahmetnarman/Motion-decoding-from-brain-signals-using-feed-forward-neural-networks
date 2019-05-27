@@ -14,6 +14,8 @@ The proposed model achieved 11.16 cm RMSE error on unseen testing data. The resu
 
 <p align="center"><img src="Figures/finalModelRun.png" width="70%" alt="" /></p>
 
+The details of the project and the results can be found in [BMI_Report.pdf](BMI_Report.pdf).
+
 ## Dependedcies
 
 - Matlab
